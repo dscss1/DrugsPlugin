@@ -1,0 +1,4 @@
+name: DrugsPlugin
+version: '1.0'
+main: ua.dscss2.drugsPlugin.DrugsPlugin
+api-version: '1.21'
